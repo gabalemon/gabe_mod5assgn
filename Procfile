@@ -1,1 +1,1 @@
-web: gunicorn mod5_assgn.wsgi
+web: gunicorn module5_pages.wsgi
